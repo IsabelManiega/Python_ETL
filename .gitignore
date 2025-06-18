@@ -1,0 +1,6 @@
+env/
+venv38/
+__pycache__/
+Presentation.pptx
+.ipynb_checkpoints/
+files/yellow_tripdata_2018.parquet
